@@ -122,3 +122,4 @@ o.prop = 123
 o.a = 'a'
 
 console.log(o)
+
